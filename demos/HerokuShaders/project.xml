@@ -11,4 +11,7 @@
 	
 	<assets path="Assets" rename="assets" />
 	
+	<section if="html5">
+		<haxeflag name="-D dom"/>
+	</section>
 </project>
